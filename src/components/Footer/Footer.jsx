@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="space-y-4 max-w-[300px]">
             <h1 className="text-2xl font-bold">Code Stax</h1>
             <p className="text-dark2">
-              TCJ is a platform dedicated to empowering aspiring developers.
+              CodeStax is a platform dedicated to empowering aspiring developers.
               From beginner tutorials to advanced programming concepts, we
               provide a comprehensive learning experience designed to help you
               master coding skills, build projects, and launch your tech career.
